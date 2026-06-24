@@ -1,4 +1,5 @@
 # FinanceFriend - Multi-Agent Personal Finance Concierge
+> **Secure, intelligent personal finance management powered by multi-agent coordination, local database tool-calling, and high-fidelity security checkpoints.**
 
 FinanceFriend is a production-grade personal finance concierge agent built using the **ADK 2.0 Multi-Agent Workflow**, a standalone **MCP Server**, a strict **Security Checkpoint**, and a **Human-in-the-Loop (HITL)** approval gate.
 
